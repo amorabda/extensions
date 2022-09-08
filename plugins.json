@@ -1,19 +1,659 @@
 [
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=allanime.site&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/amorabda/extensions",
-        "fileSize": 2503,
+        "repositoryUrl": "https://github.com/user/repo",
+        "fileSize": 30169,
         "status": 1,
+        "language": "en",
         "authors": [
-            "Cloudburst"
+            
         ],
         "tvTypes": [
-            "Others"
+            "AnimeMovie",
+            "Anime"
         ],
         "version": 1,
-        "internalName": "ExampleProvider",
-        "description": "Lorem Ipsum",
-        "url": "https://raw.githubusercontent.com/amorabda/extensions/builds/ExampleProvider.cs3",
-        "name": "ExampleProvider"
+        "internalName": "AllAnimeProvider",
+        "url": "https://raw.githubusercontent.com/user/repo/builds/AllAnimeProvider.cs3",
+        "name": "AllAnimeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=allmoviesforyou.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/user/repo",
+        "fileSize": 12921,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "AllMoviesForYouProvider",
+        "url": "https://raw.githubusercontent.com/user/repo/builds/AllMoviesForYouProvider.cs3",
+        "name": "AllMoviesForYouProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=aniflix.pro&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/user/repo",
+        "fileSize": 24984,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "AniflixProvider",
+        "url": "https://raw.githubusercontent.com/user/repo/builds/AniflixProvider.cs3",
+        "name": "AniflixProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animeflick.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/user/repo",
+        "fileSize": 9839,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "AnimeFlickProvider",
+        "url": "https://raw.githubusercontent.com/user/repo/builds/AnimeFlickProvider.cs3",
+        "name": "AnimeFlickProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animekisa.in&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/user/repo",
+        "fileSize": 12719,
+        "status": 0,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "AnimekisaProvider",
+        "url": "https://raw.githubusercontent.com/user/repo/builds/AnimekisaProvider.cs3",
+        "name": "AnimekisaProvider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/user/repo",
+        "fileSize": 33486,
+        "status": 0,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "AnimePaheProvider",
+        "url": "https://raw.githubusercontent.com/user/repo/builds/AnimePaheProvider.cs3",
+        "name": "AnimePaheProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=asiaflix.app&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/user/repo",
+        "fileSize": 17850,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "AsiaFlixProvider",
+        "url": "https://raw.githubusercontent.com/user/repo/builds/AsiaFlixProvider.cs3",
+        "name": "AsiaFlixProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=bflix.ru&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/user/repo",
+        "fileSize": 22316,
+        "status": 0,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "version": 1,
+        "internalName": "BflixProvider",
+        "url": "https://raw.githubusercontent.com/user/repo/builds/BflixProvider.cs3",
+        "name": "BflixProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=crunchyroll.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/user/repo",
+        "fileSize": 30114,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Sir Aguacata (KillerDogeEmpire)"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 3,
+        "internalName": "Crunchyroll",
+        "description": "The Crunchyroll provider allows you to watch all the shows that are on Crunchyroll.",
+        "url": "https://raw.githubusercontent.com/user/repo/builds/Crunchyroll.cs3",
+        "name": "Crunchyroll"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=bestdubbedanime.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/user/repo",
+        "fileSize": 16974,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "DubbedAnimeProvider",
+        "url": "https://raw.githubusercontent.com/user/repo/builds/DubbedAnimeProvider.cs3",
+        "name": "DubbedAnimeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=eja.tv&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/user/repo",
+        "fileSize": 10067,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "EjaTv",
+        "url": "https://raw.githubusercontent.com/user/repo/builds/EjaTv.cs3",
+        "name": "EjaTv"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=gogoanime.lu&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/user/repo",
+        "fileSize": 24848,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "GogoanimeProvider",
+        "url": "https://raw.githubusercontent.com/user/repo/builds/GogoanimeProvider.cs3",
+        "name": "GogoanimeProvider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/user/repo",
+        "fileSize": 8362,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "HDMProvider",
+        "url": "https://raw.githubusercontent.com/user/repo/builds/HDMProvider.cs3",
+        "name": "HDMProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ihavenotv.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/user/repo",
+        "fileSize": 11518,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Documentary"
+        ],
+        "version": 1,
+        "internalName": "IHaveNoTvProvider",
+        "url": "https://raw.githubusercontent.com/user/repo/builds/IHaveNoTvProvider.cs3",
+        "name": "IHaveNoTvProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kawaiifu.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/user/repo",
+        "fileSize": 13885,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "KawaiifuProvider",
+        "url": "https://raw.githubusercontent.com/user/repo/builds/KawaiifuProvider.cs3",
+        "name": "KawaiifuProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kimcartoon.li&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/user/repo",
+        "fileSize": 11496,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Cartoon"
+        ],
+        "version": 1,
+        "internalName": "KimCartoonProvider",
+        "url": "https://raw.githubusercontent.com/user/repo/builds/KimCartoonProvider.cs3",
+        "name": "KimCartoonProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kisskh.me&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/user/repo",
+        "fileSize": 18816,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "KisskhProvider",
+        "url": "https://raw.githubusercontent.com/user/repo/builds/KisskhProvider.cs3",
+        "name": "KisskhProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=melomovie.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/user/repo",
+        "fileSize": 12379,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "MeloMovieProvider",
+        "url": "https://raw.githubusercontent.com/user/repo/builds/MeloMovieProvider.cs3",
+        "name": "MeloMovieProvider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/user/repo",
+        "fileSize": 32511,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 9,
+        "internalName": "NginxProvider",
+        "url": "https://raw.githubusercontent.com/user/repo/builds/NginxProvider.cs3",
+        "name": "NginxProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=9anime.id&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/user/repo",
+        "fileSize": 35927,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "NineAnimeProvider",
+        "url": "https://raw.githubusercontent.com/user/repo/builds/NineAnimeProvider.cs3",
+        "name": "NineAnimeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=olgply.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/user/repo",
+        "fileSize": 5956,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Blatzar"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "OlgplyProvider",
+        "description": "Uses TMDB",
+        "url": "https://raw.githubusercontent.com/user/repo/builds/OlgplyProvider.cs3",
+        "name": "OlgplyProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.2embed.to&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/user/repo",
+        "fileSize": 57945,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "SflixProvider",
+        "description": "Also includes Dopebox, Solarmovie, Zoro and 2embed",
+        "url": "https://raw.githubusercontent.com/user/repo/builds/SflixProvider.cs3",
+        "name": "SflixProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=secretlink.xyz&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/user/repo",
+        "fileSize": 18354,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "SoaptwoDayProvider",
+        "url": "https://raw.githubusercontent.com/user/repo/builds/SoaptwoDayProvider.cs3",
+        "name": "SoaptwoDayProvider"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/master/SuperStream/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/user/repo",
+        "fileSize": 54867,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Anime",
+            "Movie",
+            "AnimeMovie",
+            "TvSeries"
+        ],
+        "version": 2,
+        "internalName": "SuperStream",
+        "url": "https://raw.githubusercontent.com/user/repo/builds/SuperStream.cs3",
+        "name": "SuperStream"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tenshi.moe&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/user/repo",
+        "fileSize": 17252,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "Movie",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "TenshiProvider",
+        "url": "https://raw.githubusercontent.com/user/repo/builds/TenshiProvider.cs3",
+        "name": "TenshiProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=theflix.to&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/user/repo",
+        "fileSize": 44167,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "TheFlixToProvider",
+        "url": "https://raw.githubusercontent.com/user/repo/builds/TheFlixToProvider.cs3",
+        "name": "TheFlixToProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=topdocumentaryfilms.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/user/repo",
+        "fileSize": 10202,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "Documentary"
+        ],
+        "version": 1,
+        "internalName": "Topdocumentaryfilms",
+        "url": "https://raw.githubusercontent.com/user/repo/builds/Topdocumentaryfilms.cs3",
+        "name": "Topdocumentaryfilms"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=trailers.to&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/user/repo",
+        "fileSize": 21420,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Cartoon",
+            "Anime",
+            "Movie",
+            "AnimeMovie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "TrailersTwoProvider",
+        "url": "https://raw.githubusercontent.com/user/repo/builds/TrailersTwoProvider.cs3",
+        "name": "TrailersTwoProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tv247.us&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/user/repo",
+        "fileSize": 9551,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "Tvtwofourseven",
+        "url": "https://raw.githubusercontent.com/user/repo/builds/Tvtwofourseven.cs3",
+        "name": "Tvtwofourseven"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/user/repo",
+        "fileSize": 4921,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "VidSrcProvider",
+        "url": "https://raw.githubusercontent.com/user/repo/builds/VidSrcProvider.cs3",
+        "name": "VidSrcProvider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/user/repo",
+        "fileSize": 63588,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Anime",
+            "Movie",
+            "AnimeMovie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "VidstreamBundle",
+        "description": "Includes many providers with the same layout as Vidstream",
+        "url": "https://raw.githubusercontent.com/user/repo/builds/VidstreamBundle.cs3",
+        "name": "VidstreamBundle"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.vmovee.watch&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/user/repo",
+        "fileSize": 9701,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "VMoveeProvider",
+        "url": "https://raw.githubusercontent.com/user/repo/builds/VMoveeProvider.cs3",
+        "name": "VMoveeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.wcostream.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/user/repo",
+        "fileSize": 12904,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Cartoon",
+            "Anime",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "WatchCartoonOnlineProvider",
+        "url": "https://raw.githubusercontent.com/user/repo/builds/WatchCartoonOnlineProvider.cs3",
+        "name": "WatchCartoonOnlineProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.wcofun.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/user/repo",
+        "fileSize": 15020,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "WcofunProvider",
+        "url": "https://raw.githubusercontent.com/user/repo/builds/WcofunProvider.cs3",
+        "name": "WcofunProvider"
     }
 ]
